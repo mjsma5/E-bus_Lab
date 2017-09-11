@@ -1,0 +1,18 @@
+CACHE MANIFEST
+tasks.html
+scripts/date.js
+scripts/jquery.validate.js
+scripts/jquery-serialization.js
+scripts/jquery-tmpl.js
+scripts/tasks-controller.js
+scripts/tasks-indexeddb.js
+scripts/tasks-webStorage.js
+styles/tasks.css
+styles/mustardo.ttf
+
+FALLBACK:
+scripts/tasks-indexeddb.js scripts/tasks-indexeddb.js
+scripts/tasks-webStorage.js scripts/tasks-webStorage.js
+
+NETWORK:
+*
